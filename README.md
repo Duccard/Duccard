@@ -1,6 +1,6 @@
 # Hi there, I'm Vincas Mikulėnas.
 
-I'm a freelance **Data Scientist** passionate about transforming data into actionable insights.
+I'm a freelance **Jr Data Scientist** passionate about transforming data into actionable insights.
 
 Studied **Data Science at Turing College (2024–2025)**.
 
