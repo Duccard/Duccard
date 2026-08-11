@@ -4,7 +4,7 @@ I'm a **Jr Data Scientist** passionate about transforming data into actionable i
 
 Studied **Data Science at Turing College (2024–2025)**.
 
-Before transitioning to Data Analytics, I was Advertisment Creative & Producer(2021-2024) working both as freelancer and on board.
+I am also Growth Strategist & Producer working both as freelancer and on board.
 
 ## Top Skills  
 - **Python** 
