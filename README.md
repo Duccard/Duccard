@@ -1,12 +1,11 @@
 # Hi there, I'm Vincas Mikulėnas.
 
-I'm a **Jr Data Scientist** passionate about transforming data into actionable insights.
+I Studied **Data Science at Turing College (2024–2025)**.
 
-Studied **Data Science at Turing College (2024–2025)**.
-
-I am also Growth Strategist & Producer working both as freelancer and on board.
+I am Growth Strategist & Producer working both as freelancer and on board, where my analytical knowledge and skills help make better marketing decisions.
 
 ## Top Skills  
+- **Marketing Pipelines and Systems**
 - **Python** 
 - **SQL**
 - **Machine Learning**
