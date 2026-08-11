@@ -2,7 +2,7 @@
 
 I Studied **Data Science at Turing College (2024–2025)**.
 
-I am Growth Strategist & Producer working both as freelancer and on board, where my analytical knowledge and skills help make better marketing decisions.
+I am Growth Strategist & Producer working both as freelancer and on board, where my analytical knowledge and skills help me make better marketing decisions.
 
 ## Top Skills  
 - **Marketing Pipelines and Systems**
